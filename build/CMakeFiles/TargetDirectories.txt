@@ -1,0 +1,3 @@
+C:/Users/G. Sai Sravani/Desktop/new/calc_project/build/CMakeFiles/MyProject.dir
+C:/Users/G. Sai Sravani/Desktop/new/calc_project/build/CMakeFiles/edit_cache.dir
+C:/Users/G. Sai Sravani/Desktop/new/calc_project/build/CMakeFiles/rebuild_cache.dir
